@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Solution Developer",
+      "organisation": "Tata Technologies",
+      "startDate": "Dec, 2021",
+      "endDate": "May,2024",
+      "experiences": [" Design, develop, and co-create learning solution", " Analyze data to drive strategy"],
+      "imageSrc": "history/Tata Technologies.png"
+    },
+    {
+      "role": "App Developer Intern",
+      "organisation": "MediaMint",
+      "startDate": "Oct, 2021",
+      "endDate": "Dec, 2021",
+      "experiences": [
+        "Worked on Customers requirments"
+      ],
+      "imageSrc": "history/Mediamint.png"
+    }
+]

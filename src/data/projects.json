@@ -1,0 +1,10 @@
+[
+    {
+      "title": "Web Scrapping",
+      "imageSrc": "projects/project.png",
+      "description": " This project is designed to allow users to retrieve the number of stories based on their preferences.",
+      "skills": ["Python", "FastApi"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+]
