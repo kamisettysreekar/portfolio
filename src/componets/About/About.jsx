@@ -28,8 +28,8 @@ export const About = () => {
               Web Developer
             </h3>
             <p>
-            Experienced in designing and developing workflows to optimise online application operations utilising React and
-            Django, integrating RESTful APIs, and improving real-time data visibility
+            Developed workflows and web solutions that optimize application operations and 
+            enhance user experience using modern technologies like React and Django.
             </p>
           </div>
           </li>
@@ -37,11 +37,11 @@ export const About = () => {
             <img src = {getImageUrl("about/uiIcon.png")} alt = "Uicon" />
           <div className={styles.aboutItemText}>
             <h3>
-              Solution developer
+              Software Solution developer
             </h3>
             <p>
-            Experienced in developing customised software solutions that match 
-            particular company requirements while guaranteeing efficient and successful execution.
+            Experienced in developing customized software solutions tailored to specific business needs, 
+            ensuring seamless implementation and measurable success.
             </p>
           </div>
           </li>
